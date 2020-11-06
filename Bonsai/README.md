@@ -1,1 +1,2 @@
-Marlin Firmware 1.1.9
+Firmware : Marlin 1.1.9
+Slicer : Cura 4
