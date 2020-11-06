@@ -1,1 +1,1 @@
-# gitRepo
+configuration
